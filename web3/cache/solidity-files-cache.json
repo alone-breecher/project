@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\a10ne\\OneDrive\\Desktop\\test project\\project3\\web3\\contracts\\NodeGi.sol": {
+      "lastModificationDate": 1682778814081,
+      "contentHash": "9444d283408c97fb85dcbf3b710a3a02",
+      "sourceName": "contracts/NodeGi.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "NodeGi"
+      ]
+    }
+  }
+}
